@@ -1,0 +1,1 @@
+grant create session, create procedure to sct_user identified by sct_user;
